@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This is a simple 4bit multiplier, that multiplies two imputs (A and B) to get a resulting product (P). 
 
 ## How to test
 
-Explain how to use your project
+Test the multiplier by modifying the inputs and output in mult_tb. The default file should work well for testing purposes. 
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+.v files were made using Verilog HDL software. 
