@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-This program converts a a4bit multiplier design from .v files into a a Tiny Tapeout output. The program verifies verifies the opreation of a 4bit multiplier by perfoming gds synthesis, drc, and lvs checks before synthesizing the design into a 3d model.
+This program converts a 4bit multiplier design from .v files into a a Tiny Tapeout output. The program verifies verifies the opreation of a 4bit multiplier by perfoming gds synthesis, drc, and lvs checks before synthesizing the design into a 3d model.
 
 ## How to test
 
