@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-This is a simple 4bit multiplier, that multiplies two imputs (A and B) to get a resulting product (P). 
+This program converts a a4bit multiplier design from .v files into a a Tiny Tapeout output. The program verifies verifies the opreation of a 4bit multiplier by perfoming gds synthesis, drc, and lvs checks before synthesizing the design into a 3d model.
 
 ## How to test
 
-Test the multiplier by modifying the inputs and output in mult_tb. The default file should work well for testing purposes. 
+Test the multiplier by modifying the inputs and output in mult.v file. The default file should work well for testing purposes. 
 
 ## External hardware
 
